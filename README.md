@@ -1,11 +1,6 @@
 # desentralized_system_1.0
-/*
-Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
-For licensing, see LICENSE.html or http://ckeditor.com/license
-*/
 
-/**
- * @fileOverview Defines the {@link CKEDITOR.lang} object, for the
+ /* @fileOverview Defines the {@link CKEDITOR.lang} object, for the
  * Afrikaans language.
  */
 
